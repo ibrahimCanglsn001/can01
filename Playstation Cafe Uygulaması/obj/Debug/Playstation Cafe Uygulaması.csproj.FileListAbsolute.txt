@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Playstation Cafe Uygulaması\bin\Debug\Playstation Cafe Uygulaması.exe.config
+C:\Users\Administrator\Desktop\Playstation Cafe Uygulaması\bin\Debug\Playstation Cafe Uygulaması.exe
+C:\Users\Administrator\Desktop\Playstation Cafe Uygulaması\bin\Debug\Playstation Cafe Uygulaması.pdb
+C:\Users\Administrator\Desktop\Playstation Cafe Uygulaması\obj\Debug\Playstation Cafe Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Playstation Cafe Uygulaması\obj\Debug\Playstation Cafe Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Playstation Cafe Uygulaması\obj\Debug\Playstation Cafe Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Playstation Cafe Uygulaması\obj\Debug\Playstation Cafe Uygulaması.exe
+C:\Users\Administrator\Desktop\Playstation Cafe Uygulaması\obj\Debug\Playstation Cafe Uygulaması.pdb
